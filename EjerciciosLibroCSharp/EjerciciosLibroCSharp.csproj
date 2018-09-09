@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Capitulo5.cs" />
+    <Compile Include="Capitulo6.cs" />
+    <Compile Include="Capitulo7.cs" />
+    <Compile Include="Capitulo8.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
